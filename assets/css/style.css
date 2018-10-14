@@ -1,0 +1,20 @@
+
+body{
+	background-image: url("../images/silverbackground.jpg")
+}
+div.h1{
+    text-align: center;
+}
+
+.row{ background-color: white;
+	margin: 10px;
+    margin-left: 25%;
+    border: solid 5px silver;
+    padding: 10px;
+    text-align: center;
+}
+
+.gemImage{
+	height: 80px;
+	margin: 10px;
+}
